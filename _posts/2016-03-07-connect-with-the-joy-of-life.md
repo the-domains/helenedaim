@@ -16,8 +16,8 @@ keywords:
   - connection
   - gain
 description: 'To do so you first need to have connection with yourself. This Free email course will help you align with your heart. Recieve 5 emails, each with a process to gain balance, awareness and add value to your life.'
-datePublished: '2016-03-07T21:07:22.887Z'
-dateModified: '2016-03-07T21:07:15.837Z'
+datePublished: '2016-03-07T21:12:05.104Z'
+dateModified: '2016-03-07T21:11:35.024Z'
 author: []
 related: []
 app_links: []
