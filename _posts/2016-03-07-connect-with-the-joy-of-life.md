@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://helenedaim.leadpages.co'
-  name: Leadpages
-  favicon: 'https://helenedaim.leadpages.co/favicon.ico'
-  domain: helenedaim.leadpages.co
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - recieve
   - emails
@@ -18,17 +16,21 @@ keywords:
   - connection
   - gain
 description: 'To do so you first need to have connection with yourself. This Free email course will help you align with your heart. Recieve 5 emails, each with a process to gain balance, awareness and add value to your life.'
-inLanguage: en
+datePublished: '2016-03-07T20:36:19.053Z'
+dateModified: '2016-03-07T20:03:43.732Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://helenedaim.leadpages.co/connect-with-the-joy-of-life/'
 title: Connect with the joy of life
-datePublished: '2016-03-07T19:47:48.811Z'
-dateModified: '2016-03-07T19:46:49.781Z'
 sourcePath: _posts/2016-03-07-connect-with-the-joy-of-life.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Leadpages
+  domain: helenedaim.leadpages.co
+  url: 'https://helenedaim.leadpages.co'
+  favicon: 'https://helenedaim.leadpages.co/favicon.ico'
+url: connect-with-the-joy-of-life/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
