@@ -4,7 +4,7 @@
         <description><![CDATA[Helenedaim]]></description>
         <link>https://thegrid.ai/helenedaim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 20:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2016 20:18:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/helenedaim/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -39,13 +39,6 @@
             <link>https://thegrid.ai/helenedaim/contacts/index.html</link>
             <guid isPermaLink="false">83762413-c744-4c29-a3d9-1570eee5949e</guid>
             <pubDate>Mon, 07 Mar 2016 18:57:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d44fa12-96e6-41e2-9fc2-fbb18328bd04.png">]]></description>
-            <link>https://thegrid.ai/helenedaim/5bfd318d-6e15-4ea8-aaf7-d9c1e3b0d350/index.html</link>
-            <guid isPermaLink="false">5bfd318d-6e15-4ea8-aaf7-d9c1e3b0d350</guid>
-            <pubDate>Sun, 28 Feb 2016 23:28:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
