@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: en
-starred: true
+starred: false
 keywords:
   - recieve
   - emails
@@ -16,8 +16,8 @@ keywords:
   - connection
   - gain
 description: 'To do so you first need to have connection with yourself. This Free email course will help you align with your heart. Recieve 5 emails, each with a process to gain balance, awareness and add value to your life.'
-datePublished: '2016-03-07T21:13:59.632Z'
-dateModified: '2016-03-07T21:13:42.823Z'
+datePublished: '2016-03-07T21:15:35.109Z'
+dateModified: '2016-03-07T21:15:13.822Z'
 author: []
 related: []
 app_links: []
